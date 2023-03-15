@@ -11,6 +11,9 @@
 
 ### Files
 
+- train_csv - CSV file for tabular data
+
+- EDA - EDA on the tabular data 
 
 - preprocess - for image preprocessing from .dcm to .jpg
 
