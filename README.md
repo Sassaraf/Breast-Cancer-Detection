@@ -18,4 +18,4 @@
 
 - model _eval -run the model on the test data without training, for evaluation
 
-- traain_model - train the model on the train data
+- train_model - train the model on the train data
